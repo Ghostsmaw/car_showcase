@@ -9,3 +9,5 @@ In this project i was able to
 - Create custom filter, combobox, and modal elements 
 - Maintain a well-organized file and folder structure. 
 - Embrace the principles of writing clean code.
+
+![image](https://github.com/Ghostsmaw/car_showcase/assets/25077504/e380117c-acf7-44e1-8a69-5c43fcc04d8b)
