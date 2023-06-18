@@ -11,3 +11,6 @@ In this project i was able to
 - Embrace the principles of writing clean code.
 
 ![image](https://github.com/Ghostsmaw/car_showcase/assets/25077504/e380117c-acf7-44e1-8a69-5c43fcc04d8b)
+
+![image](https://github.com/Ghostsmaw/car_showcase/assets/25077504/d04720cb-159b-4a50-8649-18b5c60f73cb)
+
